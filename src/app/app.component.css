@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+.componenteprinc{
+    background-color: aqua;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.componenteris{
+    background-color: aqua;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+button{
+    font-size: 20px;
+}
